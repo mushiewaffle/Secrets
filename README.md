@@ -7,7 +7,7 @@
 <h4 align="center">
    Allows users to securely Register/Login with Email/Password or Google/Facebook. </br>
    Login information is encrypted, hashed, salted, and saved with OAuth and MongoDB. </br>
-   Browsing sessions and saved with Cookies using Passport.js.
+   Browsing sessions are saved with Cookies using Passport.js.
 </h4>
 <h1></h1>
 <h3 align="center">Landing Page</h3>
