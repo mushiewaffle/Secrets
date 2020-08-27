@@ -27,5 +27,4 @@
 <h3 align="center">Responsive</h3>
 <p align="center">
   <img src="images/secrets-md.png" />
-  <img src="images/secrets-sm.png" />
 </p>
