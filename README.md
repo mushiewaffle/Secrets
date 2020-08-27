@@ -13,8 +13,8 @@
 </p>
 <h3 align="center">Register or Login</h3>
 <p align="center">
-  <img src="images/secrets-login.png" />
   <img src="images/secrets-register.png" />
+  <img src="images/secrets-login.png" />
 </p>
 <h3 align="center">Home page</h3>
 <p align="center">
