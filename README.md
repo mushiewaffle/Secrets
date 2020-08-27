@@ -2,10 +2,12 @@
   <img src="images/secrets-title.png" />
 </p>
 <h3 align="center"
-  A platform where users can anonymously read and post secrets on a public forum.</br>
-  Allows users to securely register/login with email/pw or Google/Facebook to post anonymous secrets. </br>
-  Login information is encrypted, hashed, salted, and saved locally with cookies using Passport.js, bcrypt, and MD5. </br>
+  A platform where users can anonymously read or post secrets on a public forum.</br>
 </h3>
+<h4>
+   Allows users to securely Register/Login with Email/Password or Google/Facebook. </br>
+   Login information is encrypted, hashed, salted, and saved with cookies using Passport.js, bcrypt, MD5, and mongoDB. </br>
+</h4>
 <h1></h1>
 <h3 align="center">Landing Page</h3>
 <p align="center">
