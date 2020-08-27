@@ -1,11 +1,12 @@
-
 body {
-  background-color: #E8ECEF;
+  /* background-color: yellow; */
+  background: #28a5ff;
+  /* background-image: "../images/clouds.jpg"; */
 }
 
 .centered {
-    padding-top: 200px;
-    text-align: center;
+  padding-top: 200px;
+  text-align: center;
 }
 
 .secret-text {
@@ -13,4 +14,72 @@ body {
   font-size: 2rem;
   color: #fff;
   background-color: #000;
+}
+
+.jumbotron {
+  /* background-image: "../../images/clouds.jpg"; */
+  background: None;
+  /* background: linear-gradient(#ffffff, #5eaade, #0095ff); */
+}
+
+.bigicon {
+  font-size: 1600%;
+  color: #fff;
+}
+
+#textincloud {
+  font-size: 20px;
+  margin-top: -110px;
+  display: block;
+  color: black;
+  margin-bottom: 2rem;
+  height: 50px;
+  width: 300px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  background-color: yellow;
+  font-family: "Quicksand", sans-serif;
+  overflow: hidden;
+}
+
+.p-h {
+}
+
+.mt-5 {
+  /* background: none; */
+  text-align: center;
+}
+
+.col-sm-12 {
+  /* background: yellow; */
+  text-align: center;
+}
+
+.social-block {
+  /* background: black; */
+  background: none;
+  position: relative;
+  display: inline-block;
+}
+
+.container-a {
+  margin-top: 10px;
+  padding-top: 20px;
+  display: inline-block;
+  width: 450px;
+  background: rgba(255, 255, 255, 0.434);
+}
+
+.social-block {
+  text-align: center;
+  width: 230px;
+}
+
+.auth-padding {
+  margin-top: 20%;
+}
+
+.auth-format {
+  font-family: "Overpass", sans-serif;
+  font-size: 400%;
 }
