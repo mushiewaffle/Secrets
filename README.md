@@ -1,5 +1,5 @@
 <p align="center">
-  Secrets
+  <img src="images/secrets-title.png" />
 </p>
 <h3 align="center"
   A platform where users can anonymously read and post secrets on a public forum.</br>
