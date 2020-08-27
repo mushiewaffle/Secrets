@@ -31,10 +31,8 @@ app.use(
 app.use(passport.initialize());
 app.use(passport.session());
 
-mongoose.connect(
-  "mongodb+srv://admin-kevin:mwnyhprZnWaSttk1@cluster0.i0rzz.mongodb.net/userDB",
-  { useNewUrlParser: true }
-);
+mongoose.connect("mongodb://localhost:27017/userDB", { useNewUrlParser: true });
+
 mongoose.set("useCreateIndex", true);
 
 const userSchema = new mongoose.Schema({
@@ -194,11 +192,6 @@ app.post("/login", function (req, res) {
   });
 });
 
-let port = process.env.PORT;
-if (port == null || port == "") {
-  port = 3000;
-}
-
-app.listen(port, function () {
+app.listen(3000, function () {
   console.log("Server started on port 3000!");
 });
