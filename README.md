@@ -2,7 +2,7 @@
   <img src="images/secrets-title.png" />
 </p>
 <h3 align="center">
-  A platform where users can anonymously read or post secrets on a public forum.</br>
+  A platform where users can read or share secrets on a public forum anonymously.</br>
 </h3>
 <h4 align="center">
    Allows users to securely Register/Login with Email/Password or Google/Facebook. </br>
